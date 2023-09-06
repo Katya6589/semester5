@@ -3,3 +3,5 @@
 - Производная\интеграл\диферинциальное уровнение,
 - Exel\Python Matplotlib  
 - https://docs.google.com/spreadsheets/d/1GsQk39hAP4NiKOBeXc3o9k3tQqG9Zfnti60YBIFakxY/edit?usp=sharing
+- реплит https://replit.com/@barsegyan/Chisliennyie-mietody
+- 
