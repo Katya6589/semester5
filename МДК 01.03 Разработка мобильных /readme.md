@@ -17,3 +17,5 @@ Android Studio
  - 4 Язык программирования (Java, Cotlin)
  - Цель: Сделать перход между двумя страницами 
    
+Производство:
+![vfrtn ghjbpdjlcndf](https://github.com/Katya6589/semester5/assets/113089569/46e85780-77cd-42ba-8d1f-5a10b0fea10e)
