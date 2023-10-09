@@ -1,5 +1,7 @@
-у меня айфони
-Android Studio
+у меня айфони  
+Прототип - https://www.figma.com/file/RAznL3D3H6Ku3rZ7518mFZ/Restaurant-Application-UI-Interface-(Community)?type=design&node-id=0-1&mode=design  
+  
+Android Studio  
 Приложение состоит из 2-ух частей:
 - Front end
 - 1 количество страниц
