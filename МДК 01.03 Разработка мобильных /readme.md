@@ -1,6 +1,6 @@
 у меня айфони  
 [Прототип телефон](https://www.figma.com/file/RAznL3D3H6Ku3rZ7518mFZ/Restaurant-Application-UI-Interface-(Community)?type=design&node-id=0-1&mode=design&t=4w2jhslIipPIg0tx-0)  
-[Прототип пк ](https://www.figma.com/file/siHE36GSOmbPZWUaYfOcQs/MODERN-PAGE-TRANSITIONS-by-MAKETHECUT.STUDIO-(Community)?type=design&node-id=0-1&mode=design&t=8S23tfMer1KHHiYC-0)
+
   
 Android Studio  
 Приложение состоит из 2-ух частей:
