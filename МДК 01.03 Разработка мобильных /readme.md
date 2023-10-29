@@ -1,10 +1,14 @@
 у меня айфони  
 [Прототип телефон](https://www.figma.com/file/RAznL3D3H6Ku3rZ7518mFZ/Restaurant-Application-UI-Interface-(Community)?type=design&node-id=0-1&mode=design&t=4w2jhslIipPIg0tx-0)  
 
-  
+----
 Android Studio  
+--
 Приложение состоит из 2-ух частей:
-- Front end
+
+
+Front end
+--
 - 1 количество страниц
 - 2 Эдементы интерфейса:
   1. Текстовые блоки
@@ -15,13 +19,16 @@ Android Studio
   ![Сплит](https://github.com/Katya6589/semester5/assets/113089569/fb4d79af-e13d-403c-8dc9-8a2ead21da38)
 ![п](https://github.com/Katya6589/semester5/assets/113089569/612a019e-892b-47ee-b4ca-fd9b95e919ae)
 
- - Цель: Макет из фигмы перенести в андоид студио (или аналог)       
- - Beck end:
+ - Цель: Макет из фигмы перенести в андоид студио (или аналог)
+  -----    
+Beck end:
+  --
  - 1 Переключение между страницами
  - 2 Анимация (проигрование виде)
  - 3 Работа с API
  - 4 Язык программирования (Java, Cotlin)
  - Цель: Сделать перход между двумя страницами 
-   
+------
 Производство:
+--
 ![vfrtn ghjbpdjlcndf](https://github.com/Katya6589/semester5/assets/113089569/46e85780-77cd-42ba-8d1f-5a10b0fea10e)
