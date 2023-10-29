@@ -5,19 +5,24 @@
 - Цифровое производство - [certificate.pdf](https://github.com/Katya6589/semester5/files/12784275/certificate.1.pdf)
 - [Прототип пк ](https://www.figma.com/file/siHE36GSOmbPZWUaYfOcQs/MODERN-PAGE-TRANSITIONS-by-MAKETHECUT.STUDIO-(Community)?type=design&node-id=0-1&mode=design&t=8S23tfMer1KHHiYC-0)
 -
-Настольное приложение 
-Vishual Studio
+
+--
+Настольное приложение Vishual Studio
+--
 Приложение состоит из 2-ух частей:
-- Front end
+
+Front end
+--
 - 1 количество страниц
 - 2 Эдементы интерфейса:
-  1. Текстовые блоки
-  2. Медиа элменты (картинки, видео)
-  3. Кнопки (могут быть разные)
+- 2.1 Текстовые блоки
+- 2.2 Медиа элменты (картинки, видео)
+- 2.3 Кнопки (могут быть разные)
  - 3 Для копоновки элемнетов исспользуются шаблоны (Таблица Grid) (Заходим в приложение -> App -> Res -> Layot -> Acrivity main.xaml, в меню выбираем Split)
  - Цель: Макет из фигмы перенести в андоид студио (или аналог)  
--
- - Beck end:
+
+Beck end:
+--
  - 1 Переключение между страницами
  - 2 Анимация (проигрование виде)
  - 3 Работа с API
