@@ -30,7 +30,7 @@ Beck end:
 
 
 ---
-Регитрация
+Регистрация All-ARROW
 --
 ![image](https://github.com/Katya6589/semester5/assets/113089569/0d30b57a-9349-4781-9149-67ff903401aa)
 
