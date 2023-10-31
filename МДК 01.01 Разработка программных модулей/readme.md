@@ -35,3 +35,9 @@ Beck end:
 [Ссылка на All-ARROW](https://talent.kruzhok.org/events/requests)
 ![image](https://github.com/Katya6589/semester5/assets/113089569/0d30b57a-9349-4781-9149-67ff903401aa)
 
+---
+Roboflow
+--
+https://docs.roboflow.com/deploy/web-browser   
+[replit](https://replit.com/@roboflow/Roboflow-Webcam-Quickstart#style.css)
+
