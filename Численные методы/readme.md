@@ -1,11 +1,18 @@
+[Конспект](https://docs.google.com/spreadsheets/d/1GsQk39hAP4NiKOBeXc3o9k3tQqG9Zfnti60YBIFakxY/edit?usp=sharing)
+-
+[Реплит](https://replit.com/@barsegyan/Chisliennyie-mietody)
+-
+[Зачет](https://docs.google.com/document/d/1aqR3QRbyGWw_sHQB1wArg9QDHNHtWJ_PACC2gisxEBU/edit?usp=sharing)
+-
+
+---
+Численные методы
+-
+
 - Работа с матрицами (для решения уравнений), 
 - Регрессия (по заданым данным сделать предсказания)\интерполяция (задать математическим уравнения для данных),
 - Производная\интеграл\диферинциальное уровнение,
 - Exel\Python\Matplotlib
--
-- Конспенкт -  https://docs.google.com/spreadsheets/d/1GsQk39hAP4NiKOBeXc3o9k3tQqG9Zfnti60YBIFakxY/edit?usp=sharing
-- Реплит - https://replit.com/@barsegyan/Chisliennyie-mietody
-- Зачет - https://docs.google.com/document/d/1aqR3QRbyGWw_sHQB1wArg9QDHNHtWJ_PACC2gisxEBU/edit?usp=sharing
   
 Задание: решить СЛАУ:
 - метод Крамера
